@@ -10,3 +10,4 @@ Responsive Design: User-friendly interface built with EJS templates and Bootstra
 Database Integration: Efficient data handling using Mongoose for MongoDB.
 
 ![Screenshot (36)](https://github.com/mohammedabdulhameed2003/TinyUrl/assets/135050083/4cd089f5-308c-450c-88a4-206b5006d4cd)
+![Uploading Screenshot (37).png…]()
