@@ -8,6 +8,7 @@ URL Shortening: Easily convert long URLs into short, manageable links.
 Click Tracking: Monitor the number of clicks on each shortened URL.
 Responsive Design: User-friendly interface built with EJS templates and Bootstrap.
 Database Integration: Efficient data handling using Mongoose for MongoDB.
+To run : npm run devStart
 
 ![Screenshot (36)](https://github.com/mohammedabdulhameed2003/TinyUrl/assets/135050083/4cd089f5-308c-450c-88a4-206b5006d4cd)
 ![Screenshot (37)](https://github.com/mohammedabdulhameed2003/TinyUrl/assets/135050083/15a91401-c8d4-4617-af53-c7f51c962eb3)
